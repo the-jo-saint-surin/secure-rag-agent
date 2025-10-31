@@ -9,7 +9,7 @@
 
 ### 🧩 Who I Am
 I build at the crossroads of **technology, creativity, and precision**.  
-As a B.S./M.S. student in **IT Management at WGU**, I merge cybersecurity, AI, and automation into systems that move intelligently — just like the music I create.
+As a B.S./M.S. student in **IT Management at WGU**, I merge cybersecurity, AI, and automation into systems that move intelligently — just like the music I create and the events I help curate.
 
 My mindset: **structure creates freedom** — whether I’m designing secure architectures or mixing soundscapes that hit both logically and emotionally.
 
