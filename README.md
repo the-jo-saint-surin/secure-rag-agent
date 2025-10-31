@@ -42,3 +42,18 @@ A clean, modular AI pipeline built for real-world application — blending logic
 ---
 
 🎯 *Engineering legacy through logic, sound, and strategy — one system at a time.*
+
+---
+
+## 🧠 Technical Overview
+
+The Secure RAG Agent is a Retrieval-Augmented Generation system integrating **LangChain**, **GPT-4**, and **FastAPI**.  
+It uses **Chroma (vector DB)** for local retrieval and a simple **API key** layer for security.
+
+### ⚙️ Run It Locally
+1. Clone the repo  
+2. Create a virtual environment  
+3. Install dependencies  
+   ```bash
+   pip install -r requirements.txt
+
