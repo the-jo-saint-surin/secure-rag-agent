@@ -1,6 +1,6 @@
 # secure-rag-agent
  End-to-end Retrieval-Augmented Generation system using LangChain, GPT-4, and FastAPI. Integrates vector search (FAISS/Chroma) with secure API access to demonstrate enterprise-grade, mission-ready AI integration and backend engineering for real-world deployment.
-# 👋🏾 I'm JoNathan Saint-Surin — but you can call me **Jo**
+# 👋🏾 I'm JoNathan David Saint-Surin — but you can call me **Jo**
 *(pronounced **Jo-NAY-Thin**)*
 
 💻 **IT & Cybersecurity Specialist | AI Explorer | DJ / Producer | Systems Thinker**
